@@ -14,6 +14,12 @@ Available files:
 
 [SFD](https://github.com/retr0atelier/square-typeface/tree/square-typeface/sfd) - FontForge projects
 
+## License
+
+SIL Open Font License, Version 1.1
+
+[License](https://github.com/retr0atelier/square-typeface/blob/square-typeface/LICENSE.md)
+[License FAQ](https://github.com/retr0atelier/square-typeface/blob/square-typeface/OFL-FAQ.md)
 
 ## Getting involved
 
