@@ -1,7 +1,8 @@
 Copyright 2020 Retr0 (https://www.behance.net/_retr0) , with Reserved Font Name 'Square'. All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
-
+This license is copied below, and is also available with a FAQ at:
+http://scripts.sil.org/OFL
 
 -----------------------------------------------------------
 SIL OPEN FONT LICENSE Version 1.1 - 26 February 2007
