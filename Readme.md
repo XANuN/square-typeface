@@ -4,7 +4,9 @@
 
 ## Open source files
 
-The fonts source files are available in the [repository's 'square-typeface' branch](https://github.com/retr0atelier/square-typeface)
+The fonts source files are available for download or alterations in the [repository's 'square-typeface' branch](https://github.com/retr0atelier/square-typeface)
+
+Files available:
 
 [OpenType Fonts](https://github.com/retr0atelier/square-typeface/tree/square-typeface/otf) 
 
@@ -14,8 +16,4 @@ The fonts source files are available in the [repository's 'square-typeface' bran
 
 ## Getting involved
 
-[Open an issue](https://github.com/retr0atelier/square-typeface/issues)
-
-or create
-
-[Pull request](https://github.com/retr0atelier/square-typeface/pulls)
+[Open an issue](https://github.com/retr0atelier/square-typeface/issues) or create [Pull request](https://github.com/retr0atelier/square-typeface/pulls)
