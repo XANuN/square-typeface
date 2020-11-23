@@ -8,11 +8,11 @@ The fonts source files are available for download or alterations in the [reposit
 
 Files available:
 
-[OTF](https://github.com/retr0atelier/square-typeface/tree/square-typeface/otf) fonts.
+[OTF](https://github.com/retr0atelier/square-typeface/tree/square-typeface/otf) [fonts].
 
-[SFD](https://github.com/retr0atelier/square-typeface/tree/square-typeface/sfd) FontForge projects
+[SFD](https://github.com/retr0atelier/square-typeface/tree/square-typeface/sfd) [FontForge projects]
 
-[Vector](https://github.com/retr0atelier/square-typeface/tree/square-typeface/vector) Adobe Illustrator Vector graphics.
+[AI](https://github.com/retr0atelier/square-typeface/tree/square-typeface/vector) [Adobe Illustrator Vector graphics]
 
 ## Getting involved
 
