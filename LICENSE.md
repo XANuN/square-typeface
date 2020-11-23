@@ -1,4 +1,4 @@
-Copyright 2020 Retr0 (https://www.behance.net/_retr0) , with Reserved Font Name 'Square'. All Rights Reserved.
+Copyright 2020 Retr0 (https://linktr.ee/retr0atelier) , with Reserved Font Name 'Square'. All Rights Reserved.
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
