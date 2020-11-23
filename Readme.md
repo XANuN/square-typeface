@@ -4,7 +4,7 @@
 
 ## Open source files
 
-The fonts source files are available for download or alterations in the [repository's 'square-typeface' branch](https://github.com/retr0atelier/square-typeface)
+The fonts' source files are available for download or alterations in the [repository's 'square-typeface' branch](https://github.com/retr0atelier/square-typeface)
 
 Available files:
 
