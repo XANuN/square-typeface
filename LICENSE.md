@@ -1,6 +1,6 @@
 Copyright 2020 Retr0 (https://linktr.ee/retr0atelier) , with Reserved Font Name 'Square'. All Rights Reserved.
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1.
+This Font Software is licensed under the SIL Open Font License, Version 1.1.  
 This license is copied below, and is also available with a FAQ at:
 http://scripts.sil.org/OFL
 
